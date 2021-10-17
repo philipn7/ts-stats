@@ -19,3 +19,5 @@ Scripts in package.json to auto build and run
     "start": "concurrently npm:start:*"
   },
 ```
+
+## Enum
